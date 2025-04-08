@@ -3,10 +3,10 @@ Pipeline de preprocesamiento para datos de EEG
 -Edite Channels
 -Change Sampling Rate (512 o 1024 Hz)
 -High Pass Filter (0.1 Hz) #Eliminar componente continua
--Topographig Interpolation #Interpolar canales malos
+-Topographic Interpolation #Interpolar canales malos
 -ICA
 -Inverse ICA
--New Referebce
+-New Reference
 -Segmentation
 -Artifact Rejection
 -DC Detrend
