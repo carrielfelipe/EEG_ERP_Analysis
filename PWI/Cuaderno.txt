@@ -1,0 +1,19 @@
+PWI
+
+Pipeline de preprocesamiento:
+
+-Edite Channels
+-Change Sampling Rate (512 o 1024 Hz)
+-High Pass Filter (0.1 Hz) #Eliminar componente continua
+-Topographic Interpolation #Interpolar canales malos
+-ICA
+-Inverse ICA
+-New Reference
+-Segmentation
+-Artifact Rejection
+-DC Detrend
+-Baseline Correction
+-Average
+
+
+
