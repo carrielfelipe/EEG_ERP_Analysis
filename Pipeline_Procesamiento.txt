@@ -4,11 +4,34 @@ Pipeline de preprocesamiento para datos de EEG
 -Change Sampling Rate (512 o 1024 Hz)
 -High Pass Filter (0.1 Hz) #Eliminar componente continua
 -Topographic Interpolation #Interpolar canales malos
+
 -ICA
 -Inverse ICA
+
 -New Reference
 -Segmentation
 -Artifact Rejection
--DC Detrend
+-DC Detrendt
 -Baseline Correction
 -Average
+
+
+##########################################
+
+dc detrend
+
+selección de canales, interepolacion, se excluyen o interpolan  ? 
+
+new reference
+
+
+canales reuidoso
+
+
+
+50hz, aquí aparece? en banda gamma es solo el filtro ? ? 
+
+
+
+
+
