@@ -16,22 +16,6 @@ Pipeline de preprocesamiento para datos de EEG
 -Average
 
 
-##########################################
-
-dc detrend
-
-selección de canales, interepolacion, se excluyen o interpolan  ? 
-
-new reference
-
-
-canales reuidoso
-
-
-
-50hz, aquí aparece? en banda gamma es solo el filtro ? ? 
-
-
 
 
 
